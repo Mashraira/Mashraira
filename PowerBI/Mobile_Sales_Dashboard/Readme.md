@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard for analyzing mobile sales data. T
 - **Brand Comparison**: Sales by brand (Apple: 161,515,730, Samsung: 78, etc.)
 
 ### File
-- Download the Power BI file here: [Insert your file link here]
+- Download the Power BI file here:(https://github.com/Mashraira/Mashraira/blob/main/PowerBI/Mobile_Sales_Dashboard/Mobile%20Sales%20Dashboard.pbix)
 
 ### How to Use
 1. Download the `.pbix` file from the link above.
