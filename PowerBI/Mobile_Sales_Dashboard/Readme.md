@@ -22,7 +22,7 @@ This repository contains a Power BI dashboard for analyzing mobile sales data. T
 3. Explore the interactive dashboard using the filters for Mobile Model, Payment Method, and Brand.
 
 ### Screenshots
-![Dashboard Screenshot]([Insert screenshot link here, if applicable])
+(https://github.com/Mashraira/Mashraira/blob/main/PowerBI/Mobile_Sales_Dashboard/Mobile_Sales_Dashboard.png)
 
 ### Feedback
 Feel free to open an issue or submit a pull request if you have suggestions or improvements!
